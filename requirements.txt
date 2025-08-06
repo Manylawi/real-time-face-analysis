@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+keras-facenet
+tensorflow
+numpy
+joblib
+Pillow
